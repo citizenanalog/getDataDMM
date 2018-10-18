@@ -26,5 +26,8 @@ http://www.sophphx.caltech.edu/Lab_Equipment/34410%20User%20Guide.pdf
 PyVISA:
 https://pyvisa.readthedocs.io/en/master/
 
+XlsxWriter:
+https://xlsxwriter.readthedocs.io/
+
 Version:
 1.0.0 - Initial release
