@@ -11,7 +11,7 @@ Windows 10, not tested elsewhere
 
 More info:
 
-This tool provides a simple way to export the datalog values in non-volatile memory from the Agilent 34410A DMM. I used USB but GPIB seems possible also. Export file is a single column of data in .xlsx format.
+This tool provides a simple way to export the datalog values in non-volatile memory from the Agilent 34410A DMM. Export file is a single column of data in .xlsx format.
 
 Standalone .exe also available here:
 https://www.dropbox.com/sh/0n9waf8ked8pxq5/AAAvW9fjUQqdxJ6wKBM4F3d8a?dl=0
