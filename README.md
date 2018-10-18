@@ -7,6 +7,7 @@ https://github.com/citizenanalog/getDataDMM
 Requirements:
 Python 3.6.6
 Windows 10, not tested elsewhere
+GPIB or USB connection to device
 
 
 More info:
