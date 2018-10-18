@@ -5,10 +5,8 @@ matthew.t.sharpe@gmail.com
 https://github.com/citizenanalog/getDataDMM
 
 Requirements:
-Python 3.6.6
-
-Windows 10, not tested elsewhere
-
+Python 3.6.6,
+Windows 10,
 GPIB or USB connection to device
 
 
